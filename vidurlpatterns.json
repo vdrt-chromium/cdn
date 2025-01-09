@@ -1,0 +1,13 @@
+{
+  patterns: {
+    "youtube.com": ".*",
+    "vimeo.com": ".*",
+    "facebook.com": ".*",
+    "instagram.com": ".*",
+    "x.com": ".*",
+    "reddit.com": ".*",
+    "tiktok.com": ".*",
+    "dailymotion.com": ".*",
+  },
+  updateHealthCheckDays: 1
+}
