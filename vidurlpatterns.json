@@ -4,8 +4,8 @@
     "vimeo.com": "https:\/\/vod-adaptive-ak\\.vimeocdn\\.com\/.*video",
     "facebook.com": "https:\/\/video\\..*\\.fna\\.fbcdn\\.net\/o1\/v\/t16\/f2\/m69\/",
     "instagram.com": "https:\/\/instagram\\..*\\.fna\\.fbcdn\\.net\/o1\/v\/t16\/f2\/m69\/",
-    "x.com": "https:\/\/video\.twimg\.com\/ext_tw_video\/.*mp4",
-    "reddit.com": "https:\/\/v\\.redd\.it\\/.*\.ts",
+    "x.com": "https:\/\/video\\.twimg\\.com\/ext_tw_video\/.*mp4",
+    "reddit.com": "https:\/\/v\\.redd\.it\\/.*\\.ts",
     "tiktok.com": "https:\/\/.*-webapp-prime\.tiktok\.com\/video\/",
     "dailymotion.com": "https:\/\/\*\\.cf\\.dmcdn\\.net\/.*\\.ts"
   },
